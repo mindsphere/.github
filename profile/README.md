@@ -8,3 +8,4 @@
 [![IOT2050](https://img.shields.io/badge/github-iot2050-green?logo=github)](https://github.com/SIMATICmeetsLinux)
 [![Siemens](https://img.shields.io/badge/github-siemens-009999?logo=github)](https://github.com/siemens)
 [![TIA Portal](https://img.shields.io/badge/github-tia%20portal-02D8A0?logo=github)](https://github.com/tia-portal-applications)
+[![SIMATIC AX](https://img.shields.io/badge/github-simatic%20ax-009977?logo=github)](https://github.com/simatic-ax)
